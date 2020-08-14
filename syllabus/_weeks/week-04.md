@@ -1,6 +1,6 @@
 ---
-theme: Theme for Week Four
-meetings: 
+theme: "RTC Messaging Classics: WebSockets and Socket.io"
+meetings:
   - agenda:
       -
     video:

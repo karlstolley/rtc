@@ -1,9 +1,7 @@
 ---
-theme: Theme for Week Eight
-meetings: 
-  - agenda:
-      -
-    video:
+theme: Catch Up and Open Q & A
+meetings:
+  - agenda: Fall Break (No Class)
   - agenda:
       -
     video:

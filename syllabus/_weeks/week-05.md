@@ -1,6 +1,6 @@
 ---
-theme: Theme for Week Five
-meetings: 
+theme: Local MediaStream Fundamentals
+meetings:
   - agenda:
       -
     video:

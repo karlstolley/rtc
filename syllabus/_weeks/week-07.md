@@ -1,6 +1,6 @@
 ---
-theme: Theme for Week Seven
-meetings: 
+theme: "WebRTC Fundamentals: RTCPeerConnection; `adapter.js`"
+meetings:
   - agenda:
       -
     video:

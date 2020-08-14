@@ -1,9 +1,7 @@
 ---
-theme: Theme for Week Three
-meetings: 
-  - agenda:
-      -
-    video:
+theme: Catch Up and Open Q & A
+meetings:
+  - agenda: Labor Day (No Class)
   - agenda:
       -
     video:

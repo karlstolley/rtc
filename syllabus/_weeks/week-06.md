@@ -1,6 +1,6 @@
 ---
-theme: Theme for Week Six
-meetings: 
+theme: MediaStream Constraints and Manipulation
+meetings:
   - agenda:
       -
     video:

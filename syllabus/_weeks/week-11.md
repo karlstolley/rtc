@@ -1,6 +1,6 @@
 ---
-theme: Theme for Week Eleven
-meetings: 
+theme: Multiple Streams and Peer Connections
+meetings:
   - agenda:
       -
     video:

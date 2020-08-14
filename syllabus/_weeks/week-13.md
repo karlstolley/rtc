@@ -1,6 +1,6 @@
 ---
-theme: Theme for Week Thirteen
-meetings: 
+theme: Monitoring Networks
+meetings:
   - agenda:
       -
     video:

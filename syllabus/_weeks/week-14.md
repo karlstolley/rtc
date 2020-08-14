@@ -1,10 +1,10 @@
 ---
-theme: Theme for Week Fourteen
-meetings: 
+theme: Catch Up and Open Q & A
+meetings:
   - agenda:
       -
     video:
-  - agenda:
+  - agenda: Thanksgiving Break (No Class)
       -
     video:
 readings:

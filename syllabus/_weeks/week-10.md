@@ -1,6 +1,6 @@
 ---
-theme: Theme for Week Ten
-meetings: 
+theme: Deeper Into Single Streams
+meetings:
   - agenda:
       -
     video:

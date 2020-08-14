@@ -1,6 +1,6 @@
 ---
-theme: Theme for Week One
-meetings: 
+theme: "Starting Line: Web Standards, Documentation and Techniques"
+meetings:
   - agenda:
       -
     video:

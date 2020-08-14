@@ -1,6 +1,6 @@
 ---
-theme: Theme for Week Twelve
-meetings: 
+theme: WebRTC-Supporting Interface Design
+meetings:
   - agenda:
       -
     video:

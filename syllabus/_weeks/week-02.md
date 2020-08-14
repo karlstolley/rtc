@@ -1,6 +1,6 @@
 ---
-theme: Theme for Week Two
-meetings: 
+theme: "Non-blocking Realtime Foundations: Asynchronous JavaScript, `EventEmitter`"
+meetings:
   - agenda:
       -
     video:
