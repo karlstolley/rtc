@@ -1,5 +1,5 @@
 ---
-theme: MediaStream Constraints and Manipulation
+theme: Local MediaStream Fundamentals
 meetings:
   - agenda:
       -

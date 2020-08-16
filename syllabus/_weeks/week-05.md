@@ -1,5 +1,5 @@
 ---
-theme: Local MediaStream Fundamentals
+theme: Service Workers and The Web Notifications API
 meetings:
   - agenda:
       -
