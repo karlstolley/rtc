@@ -1,10 +1,10 @@
 ---
-theme: Catch Up and Open Q & A
+theme: Catch Up and Open Q&nbsp;&amp;&nbsp;A
 meetings:
   - agenda: Labor Day (No Class)
   - agenda:
       - Leftover material on async, client-side events
-      - Open Q & A
+      - Open Q&nbsp;&amp;&nbsp;A
       - "Previewing what's to come: Node.js, ExpressJS, Socket.io"
     video:
 readings:

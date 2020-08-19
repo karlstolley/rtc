@@ -1,9 +1,9 @@
 ---
-theme: Catch Up and Open Q & A
+theme: Catch Up and Open Q&nbsp;&amp;&nbsp;A
 meetings:
   - agenda: Fall Break (No Class)
   - agenda:
-      - Open Q & A
+      - Open Q&nbsp;&amp;&nbsp;A
     video:
 tasks:
   - TBD
