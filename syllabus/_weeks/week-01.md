@@ -5,7 +5,7 @@ meetings:
       - Course overview
       - Course policies
       - Course projects
-    video:
+    video: https://youtu.be/4oZec_G-Di0
   - agenda:
       - "Web standards: how we got to a real-time web"
       - Web-standards refresher
