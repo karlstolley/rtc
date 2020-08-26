@@ -7,6 +7,7 @@ meetings:
       - Course projects
     video: https://youtu.be/4oZec_G-Di0
   - agenda:
+      - Asking questions publicly on Basecamp
       - "Web standards: how we got to a real-time web"
       - Web-standards refresher
       - Core techniques, practices, and expectations in this class
