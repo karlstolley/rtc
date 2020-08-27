@@ -12,7 +12,7 @@ meetings:
       - "Web standards: how we got to a real-time web"
       - Web-standards refresher
       - Core techniques, practices, and expectations in this class
-    video:
+    video: https://youtu.be/tE9JRJC_VT8
 readings:
   - Jeremy Keith, [The Web is Agreement](https://www.youtube.com/watch?v=F3OpvEX2fhs) [Video, 28 mins]
   - >
