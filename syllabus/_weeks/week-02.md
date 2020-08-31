@@ -2,7 +2,7 @@
 theme: "Non-blocking Realtime Foundations: Asynchronous JavaScript, `Event`"
 meetings:
   - agenda:
-      - Introduce Project One
+      - Introduce [Project One](projects/#project-one)
       - Why asynchronous JavaScript?
       - "Older methods: callbacks"
       - The `Event` interface in client-side JavaScript
