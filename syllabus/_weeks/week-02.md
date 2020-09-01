@@ -6,7 +6,7 @@ meetings:
       - Why asynchronous JavaScript?
       - "Older methods: callbacks"
       - The `Event` interface in client-side JavaScript
-    video:
+    video: https://youtu.be/M8C9Rngix5M
   - agenda:
       - The Promise API
       - Asynchronous JavaScript in disguise `async` and `await`
