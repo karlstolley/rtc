@@ -11,7 +11,7 @@ meetings:
       - The Promise API
       - Asynchronous JavaScript in disguise `async` and `await`
       - The `CustomEvent` interface in client-side JavaScript
-    video:
+    video: https://youtu.be/1jSkrb2SJyI
 readings:
   - MDN, [Asynchronous JavaSCript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous)
   - MDN, [Using Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises)
