@@ -7,7 +7,7 @@ meetings:
       - Watching for changes
       - "Diffing out changes: [diff](https://www.npmjs.com/package/diff)"
       - Events
-    video:
+    video: https://youtu.be/2JqOP9DuK_Y
   - agenda:
       - "`EventEmitter`"
       - WebSockets vs. Socket.io
