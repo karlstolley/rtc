@@ -13,7 +13,7 @@ meetings:
       - WebSockets vs. Socket.io
       - Sending and receiving messages
       - Sockets with multiple connected clients
-    video:
+    video: https://youtu.be/wNQdGw2kSkM
 readings:
   - ExpressJS, [Guide](https://expressjs.com/en/guide/routing.html) (all sections)
   - Socket.io, [Documentation](https://socket.io/docs/) (all sections)
