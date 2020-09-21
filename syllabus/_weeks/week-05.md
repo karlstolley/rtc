@@ -6,7 +6,7 @@ meetings:
       - "[Functions and classes available to workers](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Functions_and_classes_available_to_workers)"
       - Web Workers
       - Service Workers
-    video:
+    video: https://youtu.be/Usr_47ntZO0
   - agenda:
       - The Web Notifications API
     video:
