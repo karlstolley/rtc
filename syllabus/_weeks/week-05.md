@@ -12,7 +12,7 @@ meetings:
     video:
 readings:
   - >
-    Google Codelabs, [Web Funadmentals](https://developers.google.com/web/fundamentals/codelabs)
+    Google Codelabs, [Web Fundamentals](https://developers.google.com/web/fundamentals/codelabs)
     (Your First Progressive Web App, Your First Offline Web App, and Adding Web
     Push Notifications sections)
   - MDN, [Web Workers API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API)
