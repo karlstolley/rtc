@@ -1,6 +1,6 @@
 ---
 title: Real-Time Monitoring and Messaging
-due_date: &deadline 2020-10-01
+due_date: &deadline 2020-10-05
 preview: false
 goals:
   - Learn to programmatically access web-available resources, and run comparisons on the results
