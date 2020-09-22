@@ -1,14 +1,15 @@
 ---
-theme: Media Capture and Streams API Fundamentals
+theme: "Conferences; Remaining Notifications/Project One Topics"
 meetings:
   - agenda:
-      - Media Capture and Streams
+      - "**No class.** Group conferences. See Basecamp for schedule."
     video:
   - agenda:
-      - TBD
+      - Remaining topics
+      - Open Q&amp;A
     video:
 readings:
-  - MDN, [Media Capture and Streams API (Media Stream)](https://developer.mozilla.org/en-US/docs/Web/API/Media_Streams_API)
+  - TBD
 tasks:
   - Participate in Week Six reading discussion on Basecamp
 ---

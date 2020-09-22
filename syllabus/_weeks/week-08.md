@@ -1,10 +1,13 @@
 ---
-theme: Catch Up and Open Q&nbsp;&amp;&nbsp;A
+theme: "WebRTC Fundamentals: RTCPeerConnection; `adapter.js`"
 meetings:
   - agenda: Fall Break (No Class)
   - agenda:
-      - Open Q&nbsp;&amp;&nbsp;A
+      - WebRTC, RTCPeerConnection interface
+      - "`adapter.js`"
     video:
+readings:
+  - TBD
 tasks:
   - TBD
 ---
