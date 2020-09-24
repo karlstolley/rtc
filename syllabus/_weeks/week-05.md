@@ -12,7 +12,7 @@ meetings:
       - OS and browser settings for notification testing
       - The Web Notifications API
       - The Push API
-    video:
+    video: https://youtu.be/YnXzo3bB9PQ
 readings:
   - >
     Google Codelabs, [Web Fundamentals](https://developers.google.com/web/fundamentals/codelabs)
