@@ -6,6 +6,8 @@ meetings:
     video:
   - agenda:
       - Remaining Project One topics and techniques
+      - Merge strategies on GitHub repositories
+      - Serialization/API endpoint
       - "Code organization: routes, `lib/`"
       - The `export` syntax
       - Open Q&amp;A
