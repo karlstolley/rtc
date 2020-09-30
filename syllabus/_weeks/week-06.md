@@ -11,7 +11,7 @@ meetings:
       - "Code organization: routes, `lib/`"
       - The `export` syntax
       - Open Q&amp;A
-    video:
+    video: https://youtu.be/5cAiRQQhMe4
 readings:
   - Hibbard, [Understanding `module.exports` and `exports` in Node.js](https://www.sitepoint.com/understanding-module-exports-exports-node-js/)
   - Node.js, [The `module` object](https://nodejs.org/api/modules.html#modules_the_module_object)
