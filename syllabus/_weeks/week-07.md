@@ -15,7 +15,7 @@ meetings:
       - Requesting and returning a local media-stream playback
       - Exploring device capabilities
       - "Inspecting stream objects: `MediaStreamTrack`"
-    video:
+    video: https://youtu.be/krZ74-eo8RU
   - agenda:
       - Remaining media capture and stream topics
       - >
