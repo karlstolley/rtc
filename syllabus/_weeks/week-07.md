@@ -24,4 +24,7 @@ readings:
   - Google Codelabs, [Real time communication with WebRTC](https://codelabs.developers.google.com/codelabs/webrtc-web/#0)
 tasks:
   - Participate in Week Seven reading discussion on Basecamp
+  - >
+    Have a relaxing fall break; at minimum, you are **required** to take at least a couple of hours
+    to do something relaxing and fun for yourself. No exceptions
 ---
