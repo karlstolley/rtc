@@ -1,5 +1,5 @@
 ---
-title: Remote-Learning Platform Beta
+title: Chat Plus Beta Release
 due_date: &deadline 2020-12-10
 preview: true
 goals:
@@ -21,5 +21,8 @@ deliverables:
     deadline: *deadline
 ---
 
-This project will be a refinement of Project Two, moving the project's stability to that of a public
-beta release.
+This project will be a refinement of Project Two, making fuller use of STUN/TURN signaling for more
+robust network interoperability and obviating the need for monkeying with firewalls, etc. Your app
+will also include a simple user-login and user-persistence feature, which will be combined with the
+Web Notifications API to allow users to notify other known users when they wish to use your app to
+communicate and engage your app’s shared task.
