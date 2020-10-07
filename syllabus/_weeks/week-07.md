@@ -1,5 +1,5 @@
 ---
-theme: Media Capture and Streams API Fundamentals; WebRTC Preview
+theme: Media Capture and Streams API Fundamentals
 meetings:
   - agenda:
       - Working in secure contexts (`https`), even in local development
@@ -13,18 +13,11 @@ meetings:
       - Determining available devices
       - Seeking permissions
       - Requesting and returning a local media-stream playback
-      - Exploring device capabilities
       - "Inspecting stream objects: `MediaStreamTrack`"
     video: https://youtu.be/krZ74-eo8RU
   - agenda:
-      - Remaining media capture and stream topics
-      - >
-        The [MediaCapabilitiesInfo](https://developer.mozilla.org/en-US/docs/Web/API/MediaCapabilitiesInfo)
-        API
-      - A fuller look at WebRTC
-      - >
-        The [WebRTC 1.0: Real-time Communication Between Browsers](https://www.w3.org/TR/webrtc/) specification
-      - Setting up a local WebRTC stream for diagnostic purposes
+    - No live class (Stolley on the DL for a massive headache)
+    - Full [Project Two](projects/#project-two) description
     video:
 readings:
   - MDN, [Media Capture and Streams API (Media Stream)](https://developer.mozilla.org/en-US/docs/Web/API/Media_Streams_API)
