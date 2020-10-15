@@ -10,7 +10,7 @@ meetings:
       - >
         The [MediaCapabilitiesInfo](https://developer.mozilla.org/en-US/docs/Web/API/MediaCapabilitiesInfo)
         API
-    video:
+    video: https://youtu.be/cc7MpaWWSCc
 readings:
   - MDN, [Capabilities, constraints, and settings](https://developer.mozilla.org/en-US/docs/Web/API/Media_Streams_API/Constraints)
 tasks:
