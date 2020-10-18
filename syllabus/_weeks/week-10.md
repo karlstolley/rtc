@@ -2,13 +2,18 @@
 theme: STUN, TURN, and Signaling
 meetings:
   - agenda:
-      - TBD
+      - "Abbreviation party: ICE, SDP, STUN, TURN, etc."
+      - URL-based rooms
+      - Using public STUN servers
+      - Working with home routers and firewalls
     video:
   - agenda:
-      - TBD
+      - "Stolley builds out his Project Two"
     video:
 readings:
-  - TBD
+  - MDN, [Signaling and video calling](https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API/Signaling_and_video_calling)
+  - >
+    HTMLRocks, [WebRTC in the real world: STUN, TURN and signaling](https://www.html5rocks.com/en/tutorials/webrtc/infrastructure/) (Note: this is an old article; pay more attention to the concepts than the source examples)
 tasks:
   - Participate in Week Ten reading discussion on Basecamp
 ---
