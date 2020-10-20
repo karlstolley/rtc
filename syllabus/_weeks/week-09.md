@@ -7,7 +7,7 @@ meetings:
         The [WebRTC 1.0: Real-time Communication Between Browsers](https://www.w3.org/TR/webrtc/) specification
       - Setting up a local WebRTC stream for diagnostic purposes
       - WebRTC, RTCPeerConnection interface
-    video:
+    video: https://youtu.be/2IliKYImonw
   - agenda:
       - "A closer look at WebRTC: Stolley sets up better signaling, peer-to-peer messaging"
       - "`adapter.js`"
