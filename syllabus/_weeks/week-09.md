@@ -16,7 +16,7 @@ meetings:
       - >
         [`adapter.js`](https://github.com/webrtcHacks/adapter)
         ([raw `adapter-latest.js` file](https://webrtc.github.io/adapter/adapter-latest.js))
-    video:
+    video: https://youtu.be/PBw1V9xenVM
 readings:
   - MDN, [WebRTC API](https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API)
   - MDN, [RTCPeerConnection](https://developer.mozilla.org/en-US/docs/Web/API/RTCPeerConnection)
