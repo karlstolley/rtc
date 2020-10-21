@@ -6,11 +6,16 @@ meetings:
       - >
         The [WebRTC 1.0: Real-time Communication Between Browsers](https://www.w3.org/TR/webrtc/) specification
       - Setting up a local WebRTC stream for diagnostic purposes
-      - WebRTC, RTCPeerConnection interface
     video: https://youtu.be/2IliKYImonw
   - agenda:
-      - "A closer look at WebRTC: Stolley sets up better signaling, peer-to-peer messaging"
-      - "`adapter.js`"
+      - Resetting and refreshing
+      - Sketching out the WebRTC lifecycle
+      - Stolley sets up Express.JS with better foundations for rooms and signaling
+      - URL-based rooms
+      - Auto-generating rooms and handling dynamic socket.io namespaces on the server
+      - >
+        [`adapter.js`](https://github.com/webrtcHacks/adapter)
+        ([raw `adapter-latest.js` file](https://webrtc.github.io/adapter/adapter-latest.js))
     video:
 readings:
   - MDN, [WebRTC API](https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API)

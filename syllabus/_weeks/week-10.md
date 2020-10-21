@@ -1,9 +1,9 @@
 ---
-theme: STUN, TURN, and Signaling
+theme: Deeper into WebRTC; STUN, TURN, and Signaling
 meetings:
   - agenda:
       - "Abbreviation party: ICE, SDP, STUN, TURN, etc."
-      - URL-based rooms
+      - WebRTC, RTCPeerConnection interface
       - Using public STUN servers
       - Working with home routers and firewalls
     video:
