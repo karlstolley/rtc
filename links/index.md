@@ -21,6 +21,7 @@ layout: links
 * [MDN HTML Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference)
 * [MDN CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 * [MDN JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
+* [Bits of Code: Web workers vs Service workers vs Worklets](https://bitsofco.de/web-workers-vs-service-workers-vs-worklets/)
 </section>
 
 <section markdown="1">
