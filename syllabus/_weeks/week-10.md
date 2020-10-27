@@ -7,7 +7,7 @@ meetings:
       - Namespaced signaling with Socket.io; custom `signal` events
       - Better streaming placeholders and code (`track` rather than `stream`)
       - "Perfect negotiation: polite and impolite clients"
-    video:
+    video: https://youtu.be/1i0lLDfjdIk
   - agenda:
       - Remaining topics from Monday
       - Safari-oriented tweaks to perfect negotiation (which makes it somewhat less perfect)
