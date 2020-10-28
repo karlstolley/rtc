@@ -1,13 +1,13 @@
 ---
-theme: STUN, TURN, and Signaling; Multiple Peer Connections
+theme: Data Channels; STUN/TURN Servers
 meetings:
   - agenda:
-      - "Abbreviation party: ICE, SDP, STUN, TURN, etc."
-      - Using third-party STUN servers
-      - Working with home routers and firewalls
+      - Working with data channels
     video:
   - agenda:
-      - Handling multiple peer connections
+      - Using third-party STUN servers
+      - Working with home routers and firewalls
+      - "Stolley builds out his Project Two"
     video:
 readings:
   - >

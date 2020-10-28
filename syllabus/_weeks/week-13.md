@@ -1,11 +1,11 @@
 ---
-theme: Monitoring Networks
+theme: Multiple Peer Connections; Monitoring Networks
 meetings:
   - agenda:
-      - TBD
+      - Handling multiple peer connections
     video:
   - agenda:
-      - TBD
+      - Monitoring network load and conditions
     video:
 readings:
   - TBD
