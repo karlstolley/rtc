@@ -9,8 +9,6 @@ meetings:
   - agenda:
       - "Perfect negotiation: polite and impolite clients"
       - The `RTCPeerConnection` interface
-      - Safari-oriented tweaks to perfect negotiation (which makes it somewhat less perfect)
-      - A note about Safari Technology Preview and what's coming
     video: https://youtu.be/YFTEi0kxKpA
 readings:
   - MDN, [Perfect negotiation](https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API/Perfect_negotiation)

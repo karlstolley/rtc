@@ -2,6 +2,8 @@
 theme: Data Channels; STUN/TURN Servers
 meetings:
   - agenda:
+      - Safari-oriented tweaks to perfect negotiation (which makes it somewhat less perfect)
+      - A note about Safari Technology Preview and what's coming
       - Working with data channels
     video:
   - agenda:
