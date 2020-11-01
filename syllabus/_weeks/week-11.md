@@ -4,7 +4,8 @@ meetings:
   - agenda:
       - Safari-oriented tweaks to perfect negotiation (which makes it somewhat less perfect)
       - A note about Safari Technology Preview and what's coming
-      - Working with data channels
+      - Using tracks rather than streams, even for self video
+      - "Working with data channels: A simple text chat example"
     video:
   - agenda:
       - Using third-party STUN servers
