@@ -10,6 +10,7 @@ meetings:
   - agenda:
       - Using third-party STUN servers
       - Working with home routers and firewalls
+      - Handling self-signed certificates in Google Chrome
       - "Stolley builds out his Project Two"
     video:
 readings:
