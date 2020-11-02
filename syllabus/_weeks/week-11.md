@@ -6,7 +6,7 @@ meetings:
       - A note about Safari Technology Preview and what's coming
       - Using tracks rather than streams, even for self video
       - "Working with data channels: A simple text chat example"
-    video:
+    video: https://youtu.be/3jMNKgNkXU8
   - agenda:
       - Using third-party STUN servers
       - Working with home routers and firewalls
