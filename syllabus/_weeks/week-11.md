@@ -1,17 +1,13 @@
 ---
-theme: Data Channels; STUN/TURN Servers
+theme: Data Channels
 meetings:
   - agenda:
       - Safari-oriented tweaks to perfect negotiation (which makes it somewhat less perfect)
       - A note about Safari Technology Preview and what's coming
       - Using tracks rather than streams, even for self video
-      - "Working with data channels: A simple text chat example"
     video: https://youtu.be/3jMNKgNkXU8
   - agenda:
-      - Using third-party STUN servers
-      - Working with home routers and firewalls
-      - Handling self-signed certificates in Google Chrome
-      - "Stolley builds out his Project Two"
+      - "Working with data channels: A simple text chat example"
     video:
 readings:
   - >

@@ -1,7 +1,11 @@
 ---
-theme: WebRTC-Supporting Interface Design
+theme: STUN/TURN Servers; WebRTC-Supporting Interface Design
 meetings:
-  - agenda:
+  - agenda:  
+      - Using third-party STUN servers
+      - Working with home routers and firewalls
+      - Handling self-signed certificates in Google Chrome
+      - "Stolley builds out his Project Two"
       - "Before the call: The setup interface"
     video:
   - agenda:
