@@ -8,7 +8,7 @@ meetings:
     video: https://youtu.be/3jMNKgNkXU8
   - agenda:
       - "Working with data channels: A simple text chat example"
-    video:
+    video: https://youtu.be/gvvWngqIdrg
 readings:
   - >
     HTMLRocks, [WebRTC in the real world: STUN, TURN and signaling](https://www.html5rocks.com/en/tutorials/webrtc/infrastructure/)
