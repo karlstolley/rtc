@@ -2,6 +2,7 @@
 theme: Multiple Peer Connections; Monitoring Networks
 meetings:
   - agenda:
+      - Handling self-signed certificates in Google Chrome
       - Handling multiple peer connections
     video:
   - agenda:
