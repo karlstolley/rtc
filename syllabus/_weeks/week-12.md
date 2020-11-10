@@ -6,7 +6,7 @@ meetings:
       - Using third-party STUN servers
       - "[GitHub Gist](https://gist.github.com/zziuni/3741933) of third-party STUN servers"
       - Working with home routers and firewalls
-    video:
+    video: https://youtu.be/aGAH0tdfFxk
   - agenda:
       - Sketching out RTC-backed interfaces
       - "Before the call: The setup interface"
