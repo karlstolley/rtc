@@ -1,12 +1,14 @@
 ---
-theme: Multiple Peer Connections; Monitoring Networks
+theme: Conferences; Multiple Peer Connections
 meetings:
   - agenda:
-      - Handling self-signed certificates in Google Chrome
-      - Handling multiple peer connections
+      - No class; group conferences with Stolley
     video:
   - agenda:
-      - Monitoring network load and conditions
+      - Project 3 description
+      - Handling self-signed certificates in Google Chrome
+      - Handling multiple peer connections
+      - "Stolley builds out his Project Two"
     video:
 readings:
   - >

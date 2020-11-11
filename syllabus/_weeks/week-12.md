@@ -8,11 +8,11 @@ meetings:
       - Working with home routers and firewalls
     video: https://youtu.be/aGAH0tdfFxk
   - agenda:
+      - "ITMD 545: Project Four and grad-student readings"
       - Sketching out RTC-backed interfaces
       - "Before the call: The setup interface"
       - "During the call: The active interface"
       - "After the call: The later-tater interface"
-      - "Stolley builds out his Project Two"
     video:
 readings:
   - ReallyGoodUX, [A UX review of Zoom's video call experience](https://www.reallygoodux.io/blog/zoom-video-call-ux-review)
