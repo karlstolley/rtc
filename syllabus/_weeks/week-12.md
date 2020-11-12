@@ -13,7 +13,7 @@ meetings:
       - "Before the call: The setup interface"
       - "During the call: The active interface"
       - "After the call: The later-tater interface"
-    video:
+    video: https://youtu.be/VkdKU3aA324
 readings:
   - ReallyGoodUX, [A UX review of Zoom's video call experience](https://www.reallygoodux.io/blog/zoom-video-call-ux-review)
   - >
