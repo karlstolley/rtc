@@ -1,6 +1,6 @@
 ---
 title: Chat Plus Alpha Release
-due_date: &deadline 2020-11-19
+due_date: &deadline 2020-11-23
 preview: false
 goals:
   - >
