@@ -23,8 +23,6 @@ requirements:
     You should use progressively enhanced, standards-compliant HTML, CSS, and JavaScript to build a
     satisfying mobile-first, responsive interface for your users
   - >
-    Your app should make some non-trivial use of the Service Workers API
-  - >
     You should do the appropriate feature- and constraint-detection steps necessary to ensure the
     smoothest, interoperable, platform-neutral operation of your app as possible
   - >
