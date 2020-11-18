@@ -1,14 +1,13 @@
 ---
-theme: Conferences; Multiple Peer Connections
+theme: Conferences; Game-Play State, Moves over RTCDataChannel
 meetings:
   - agenda:
       - No class; group conferences with Stolley
     video:
   - agenda:
-      - Project 3 description
-      - Handling self-signed certificates in Google Chrome
-      - Handling multiple peer connections
       - "Stolley builds out his Project Two"
+      - Tracking game moves outside of WebRTC with [the CustomEvent API](https://developer.mozilla.org/en-US/docs/Web/API/CustomEvent/CustomEvent)
+      - Turn-taking and game-play state with RTCDataChannel and its events
     video:
 readings:
   - >
@@ -17,5 +16,5 @@ readings:
     In *Proceedings of the 23rd IEEE/ACM International Symposium on Distributed Simulation and Real
     Time Applications*, pp. 199–202, 2019.
 tasks:
-  - Participate in Week Thirteen reading discussion on Basecamp
+  - "[545 Students Only] Participate in Week Twelve/Thirteen academic reading discussion on Basecamp"
 ---
