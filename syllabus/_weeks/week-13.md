@@ -8,7 +8,7 @@ meetings:
       - "Stolley builds out his Project Two"
       - Tracking game moves outside of WebRTC with [the CustomEvent API](https://developer.mozilla.org/en-US/docs/Web/API/CustomEvent/CustomEvent)
       - Turn-taking and game-play state with RTCDataChannel and its events
-    video:
+    video: https://youtu.be/yTXPTLvwam0
 readings:
   - >
     [545 Students Only] Chodorek, Chodorek, and Wajda. Media and non-media WebRTC communication
