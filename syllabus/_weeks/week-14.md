@@ -1,13 +1,9 @@
 ---
-theme: Monitoring Networks; Open Q&nbsp;&amp;&nbsp;A
+theme: Multiple Peer Connections
 meetings:
   - agenda:
-      - Project 3 description
+      - Introduce [Project Three](projects/#project-three)
       - Handling multiple peer connections
-      - Monitoring network load and conditions
-      - >
-        [`RTCPeerConnection.getStats()`](https://developer.mozilla.org/en-US/docs/Web/API/RTCPeerConnection/getStats)
-      - Open Q&nbsp;&amp;&nbsp;A
     video:
   - agenda: Thanksgiving Break (No Class)
 readings:
