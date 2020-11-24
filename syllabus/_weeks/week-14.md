@@ -4,7 +4,7 @@ meetings:
   - agenda:
       - Introduce [Project Three](projects/#project-three)
       - Handling multiple peer connections
-    video:
+    video: https://youtu.be/Hh5LzhZ8J8I
   - agenda: Thanksgiving Break (No Class)
 readings:
   - MDN, [`RTCPeerConnection.getStats()`](https://developer.mozilla.org/en-US/docs/Web/API/RTCPeerConnection/getStats)
