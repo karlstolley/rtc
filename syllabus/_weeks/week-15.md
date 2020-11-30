@@ -5,6 +5,8 @@ meetings:
       - Monitoring network load and conditions
       - >
         [`RTCPeerConnection.getStats()`](https://developer.mozilla.org/en-US/docs/Web/API/RTCPeerConnection/getStats)
+      - >
+        [The `RTCStatsReport` Object](https://developer.mozilla.org/en-US/docs/Web/API/RTCStatsReport)
       - "Open Q&nbsp;&amp;&nbsp;A"
     video:
   - agenda:
