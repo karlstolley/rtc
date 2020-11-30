@@ -17,7 +17,7 @@ meetings:
 readings:
   - ReallyGoodUX, [A UX review of Zoom's video call experience](https://www.reallygoodux.io/blog/zoom-video-call-ux-review)
   - >
-    [545 Students Only] Azvedo, Pereira, and Chainho. An API proposal for integrating sensor data
+    [545 Students Only] Azevedo, Pereira, and Chainho. An API proposal for integrating sensor data
     into web apps and WebRTC. In *Proceedings of the 1st Workshop on All-Web Real-Time Systems*,
     article no. 8, pages 1–5. ACM, 2015.
 tasks:
