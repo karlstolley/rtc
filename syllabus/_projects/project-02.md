@@ -1,6 +1,6 @@
 ---
 title: Chat Plus Alpha Release
-due_date: &deadline 2020-11-23
+due_date: &deadline 2021-11-22
 preview: false
 goals:
   - >
@@ -40,23 +40,23 @@ deliverables:
     description: >
       Once you and your team have organized yourselves, formally pitch your Project Two idea on
       Basecamp for instructor feedback and approval.
-    deadline: 2020-10-15
+    deadline: 2021-10-14
   - action: Weekly Project Two check-in
     description: >
       Include a link to your GitHub repository. Be sure and also respond to the progress of other
       group projects.
-    deadline: 2020-10-22
+    deadline: 2021-10-21
   - action: Weekly Project Two check-in
     description: >
       Include a link to your GitHub repository. Be sure and also respond to the progress of other
       group projects.
-    deadline: 2020-10-29
+    deadline: 2021-10-28
   - action: Post Project Two draft and walkthrough video
     description: >
       Include a link to your GitHub repository and a short video where your group talks through your
       project running in a two web browsers. Be sure and also respond to the progress of other group
       projects.
-    deadline: 2020-11-05
+    deadline: 2021-11-04
   - action: Submit your final Project Two.
     description: >
       Submissions should be both public on Basecamp and private to the instructor’s email. Your

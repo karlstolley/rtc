@@ -1,6 +1,6 @@
 ---
 title: Chat Plus Beta Release
-due_date: &deadline 2020-12-10
+due_date: &deadline 2021-12-09
 preview: false
 goals:
   - >
@@ -22,7 +22,7 @@ deliverables:
       Your Basecamp post should include plans both for your non-trivial revision that your group
       will undertake, as well as a rough idea of the significant future improvement your group
       will write about.
-    deadline: 2020-12-02
+    deadline: 2021-11-18
   - action: (**Firm deadline.**) Email instructor with final project deliverables.
     description: "The email should contain:"
     details:

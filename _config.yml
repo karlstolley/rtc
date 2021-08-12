@@ -9,7 +9,7 @@ course:
   uid: rtc
   tagline: >
     A course in browser-to-browser real-time communication and data exchange.
-  term: Fall 2020
+  term: Fall 2021
   # Set `days: ""` (empty string) for weekly/asynchronous classes
   days:
     - Monday
@@ -32,16 +32,6 @@ course:
       of course do that, too. Just message me first. I’m always signed into Basecamp and closely
       monitor my notifications. Message or email any time—I make students a priority, and I will
       respond as soon as I am able.
-  ta:
-    name: Shruthi Bhavaraju
-    full_title: Graduate Student in Information Technology and Management
-    url: https://github.com/shruthi-bv
-    email: sbhavaraju@hawk.iit.edu
-    office_hours: >
-      Office hours <a href="https://3.basecamp.com/3058761/buckets/18354423/messages/3020842371">via Google Meet</a>
-      on <b>Tuesdays and Thursdays, 2pm to 3pm</b> Central Time(America/Chicago). I am always signed
-      into email and Basecamp, so message or email me any time and I will respond as soon as
-      possible.
   navigation:
     - label: Calendar
       href: "#this-week"

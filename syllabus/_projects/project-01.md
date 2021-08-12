@@ -1,6 +1,6 @@
 ---
 title: Real-Time Monitoring and Messaging
-due_date: &deadline 2020-10-08
+due_date: &deadline 2021-10-07
 preview: false
 goals:
   - Learn to programmatically access web-available resources, and run comparisons on the results
@@ -23,23 +23,23 @@ deliverables:
     description: >
       If you have an idea for what you’d like to build for Project One, you might share that in your
       post.
-    deadline: 2020-09-03
+    deadline: 2021-09-02
   - action: Formally pitch your Project One idea to Basecamp.
     description: >
       Once you and your team have organized yourselves, formally pitch your Project One idea on
       Basecamp for instructor feedback and approval.
-    deadline: 2020-09-10
+    deadline: 2021-09-09
   - action: Post your Project One progress to Basecamp.
     description: >
       Include a link to your GitHub repository. Be sure and also respond to the progress of other
       group projects.
-    deadline: 2020-09-17
+    deadline: 2021-09-16
   - action: Post your Project One progress to Basecamp.
     description: >
       Include a link to your GitHub repository and a short video where your group talks through your
       project running in a web browser. Be sure and also respond to the progress of other group
       projects.
-    deadline: 2020-09-24
+    deadline: 2021-09-23
   - action: Submit your final Project One.
     description: >
       Submissions should be both public on Basecamp and private to the instructor’s email. Your
