@@ -12,6 +12,4 @@ meetings:
   - agenda:
       - "Open Q&nbsp;&amp;&nbsp;A"
       - Stolley available for one-on-one help
-tasks:
-  -
 ---
