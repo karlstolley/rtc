@@ -20,11 +20,12 @@ title: Materials
 - Virtually hosted server space through Linode or another provider (this may be required later in
   the course; there’s no need to purchase before then—it’s just something to budget for to the tune
   of about $10 per month)
-</section>
 
-<section class="recommended" markdown="1">
+
+<aside class="recommended" markdown="1">
 <h3>Recommended</h3>
 - A tablet with a pencil/stylus, running a fully featured drawing or illustration program
 - Wide-tipped markers in a variety of colors (shopping hint: try a search for “professional art
   markers” on Amazon)
+</aside>
 </section>
