@@ -6,14 +6,14 @@ meetings:
       - Using third-party STUN servers
       - "[GitHub Gist](https://gist.github.com/zziuni/3741933) of third-party STUN servers"
       - Working with home routers and firewalls
-    video: https://youtu.be/aGAH0tdfFxk
+    video:
   - agenda:
       - "ITMD 545: Project Four and grad-student readings"
       - Sketching out RTC-backed interfaces
       - "Before the call: The setup interface"
       - "During the call: The active interface"
       - "After the call: The later-tater interface"
-    video: https://youtu.be/VkdKU3aA324
+    video:
 readings:
   - ReallyGoodUX, [A UX review of Zoom's video call experience](https://www.reallygoodux.io/blog/zoom-video-call-ux-review)
   - >

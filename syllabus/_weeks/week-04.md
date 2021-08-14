@@ -7,13 +7,13 @@ meetings:
       - Watching for changes
       - "Diffing out changes: [diff](https://www.npmjs.com/package/diff)"
       - Events
-    video: https://youtu.be/2JqOP9DuK_Y
+    video:
   - agenda:
       - "`EventEmitter`"
       - WebSockets vs. Socket.io
       - Sending and receiving messages
       - Sockets with multiple connected clients
-    video: https://youtu.be/wNQdGw2kSkM
+    video:
 readings:
   - ExpressJS, [Guide](https://expressjs.com/en/guide/routing.html) (all sections)
   - Socket.io, [Documentation](https://socket.io/docs/) (all sections)

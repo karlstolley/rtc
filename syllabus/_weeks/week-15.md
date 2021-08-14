@@ -8,7 +8,7 @@ meetings:
       - >
         [The `RTCStatsReport` Object](https://developer.mozilla.org/en-US/docs/Web/API/RTCStatsReport)
       - "Open Q&nbsp;&amp;&nbsp;A"
-    video: https://youtu.be/nkv5CM4T_Ok
+    video:
   - agenda:
       - "Open Q&nbsp;&amp;&nbsp;A"
       - Stolley available for one-on-one help

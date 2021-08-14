@@ -8,7 +8,7 @@ meetings:
       - Leftover material on async, client-side events
       - "[Serving localhost over SSL](https://gist.github.com/karlstolley/16bb5332a071ecacf47a98a9418e1322) (`https`)"
       - "Previewing what's to come: Node.js, ExpressJS, Socket.io"
-    video: https://youtu.be/2I7DXKfSpsc
+    video:
 readings:
   - MDN, [Writing WebSocket client applications](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API/Writing_WebSocket_client_applications)
   - ExpressJS, [Getting started](https://expressjs.com/en/starter/installing.html)

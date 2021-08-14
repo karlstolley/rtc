@@ -14,11 +14,11 @@ meetings:
       - Seeking permissions
       - Requesting and returning a local media-stream playback
       - "Inspecting stream objects: `MediaStreamTrack`"
-    video: https://youtu.be/krZ74-eo8RU
+    video:
   - agenda:
     - No live class (Stolley on the DL for a massive headache)
     - Full [Project Two](projects/#project-two) description
-    video: https://youtu.be/nUQ5jaOIvJE
+    video:
 readings:
   - MDN, [Media Capture and Streams API (Media Stream)](https://developer.mozilla.org/en-US/docs/Web/API/Media_Streams_API)
   - Google Codelabs, [Real time communication with WebRTC](https://codelabs.developers.google.com/codelabs/webrtc-web/#0)

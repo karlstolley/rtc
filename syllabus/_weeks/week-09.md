@@ -6,7 +6,7 @@ meetings:
       - >
         The [WebRTC 1.0: Real-time Communication Between Browsers](https://www.w3.org/TR/webrtc/) specification
       - Setting up a local WebRTC stream for diagnostic purposes
-    video: https://youtu.be/2IliKYImonw
+    video:
   - agenda:
       - Resetting and refreshing
       - Sketching out the WebRTC lifecycle
@@ -16,7 +16,7 @@ meetings:
       - >
         [`adapter.js`](https://github.com/webrtcHacks/adapter)
         ([raw `adapter-latest.js` file](https://webrtc.github.io/adapter/adapter-latest.js))
-    video: https://youtu.be/PBw1V9xenVM
+    video:
 readings:
   - MDN, [WebRTC API](https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API)
   - MDN, [RTCPeerConnection](https://developer.mozilla.org/en-US/docs/Web/API/RTCPeerConnection)

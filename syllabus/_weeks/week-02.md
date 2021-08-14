@@ -6,12 +6,12 @@ meetings:
       - Why asynchronous JavaScript?
       - "Older methods: callbacks"
       - The `Event` interface in client-side JavaScript
-    video: https://youtu.be/M8C9Rngix5M
+    video:
   - agenda:
       - The Promise API
       - Asynchronous JavaScript in disguise `async` and `await`
       - The `CustomEvent` interface in client-side JavaScript
-    video: https://youtu.be/1jSkrb2SJyI
+    video:
 readings:
   - MDN, [Asynchronous JavaSCript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous)
   - MDN, [Using Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises)

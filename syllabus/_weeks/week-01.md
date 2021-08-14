@@ -5,14 +5,14 @@ meetings:
       - Course overview
       - Course policies
       - Course projects
-    video: https://youtu.be/4oZec_G-Di0
+    video:
   - agenda:
       - Asking questions publicly on Basecamp
       - Walking through web-development environments
       - "Web standards: how we got to a real-time web"
       - Web-standards refresher
       - Core techniques, practices, and expectations in this class
-    video: https://youtu.be/tE9JRJC_VT8
+    video:
 readings:
   - Jeremy Keith, [The Web is Agreement](https://www.youtube.com/watch?v=F3OpvEX2fhs) [Video, 28 mins]
   - >
