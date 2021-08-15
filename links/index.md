@@ -8,10 +8,13 @@ layout: links
 ### Course-Related
 
 * [Basecamp](https://launchpad.37signals.com/signin)
-* [Google Meet](https://3.basecamp.com/3058761/buckets/18354423/messages/2938719933)
-* [GitHub Demos](https://github.com/rtc-2020)
+* [Google Meet](https://3.basecamp.com/3058761/buckets/23600578/messages/4053415605)
+* [GitHub Demos](https://github.com/rtc-2021)
+
+<!--
 * [Class Videos](https://www.youtube.com/playlist?list=PLMr8hpt6mGnsH82A9FuCPSWkt01jp0zST)
   (YouTube Playlist)
+-->
 </section>
 
 <section class="tool-links" markdown="1">
