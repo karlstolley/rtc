@@ -10,10 +10,10 @@ Students will use JavaScript and development environments to create basic data a
 applications based on the WebRTC technologies and will record the impact of their applications on
 the performance and behavior of the networks that carry them.
 
-<b>Extended Description:</b> The course’s preferred development methods will require students to
-create and maintain testing suites and other automated quality-assurance measures. Students will
-also immerse themselves in some of the core values of the class: appropriately scoped features,
-progressive enhancement, expertly crafted commits, semantic versioning, rigorous code reviews,
-automated builds, continuous integration/continuous deployment, accurate code-adjacent
-documentation, and a healthy suspicion and pessimistic view of frameworks, libraries, and other
-dependencies in production.
+<b>Extended Description:</b> The course includes a survey of WebRTC-related real-time technologies
+and Web APIs. Students will also immerse themselves in the core values of modern web development:
+appropriately scoped feature-detection, progressive enhancement, expertly crafted commits, semantic
+versioning, rigorous code reviews, automated builds, continuous integration/continuous deployment,
+accurate code-adjacent documentation, and a healthy suspicion and pessimistic view of frameworks,
+libraries, and other dependencies in production. Students will also have fun, because WebRTC is
+pretty awesome.
