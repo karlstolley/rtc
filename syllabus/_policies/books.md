@@ -2,10 +2,10 @@
 title: Books
 ---
 
-There are no books required for this course. The existing titles on WebRTC are several years old,
-and do not reflect the complete contents of the
-[WebRTC 1.0: Real-time Communication Between Browsers](https://www.w3.org/TR/webrtc/) specification,
-which reached Candidate Recommendation status in December 2019.
+<section class="required" markdown="1">
+<h3>Required</h3>
 
-We will instead read widely from industry and academic sources, which are linked from the course
-calendar.
+- Stolley, Karl. <cite>Programming WebRTC: Build Real-Time Streaming Applications for the
+  Web</cite>. Dallas, TX: Pragmatic Bookshelf. (forthcoming)
+
+</section>
