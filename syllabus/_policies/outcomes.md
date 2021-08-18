@@ -7,6 +7,10 @@ title: Course Outcomes
 
 At the conclusion of this course, successful students will be able to:
 
+* Describe the architecture and function of WebRTC's APIs in the browser
+* Reference the contents of the WebRTC specification
+* Build forward- and backward-compatible streaming applications in WebRTC according to the
+  perfect-negotiation pattern
 * Analyze complex computing problems and apply principles of computing and other relevant
   disciplines to identify solutions
 * Participate in the creation, execution, and ongoing revision of an effective project plan
@@ -26,6 +30,10 @@ At the conclusion of this course, successful students will be able to:
 
 At the conclusion of this course, successful students will be able to:
 
+* Describe the architecture and function of WebRTC's APIs in the browser
+* Reference and explain the contents of the WebRTC specification
+* Build forward- and backward-compatible streaming applications in WebRTC according to the
+  perfect-negotiation pattern
 * Analyze complex computing problems and apply principles of computing and other relevant
   disciplines to identify solutions
 * Manage the creation, execution, and ongoing revision of an effective project plan
