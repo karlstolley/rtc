@@ -16,7 +16,6 @@ meetings:
       - "Inspecting stream objects: `MediaStreamTrack`"
     video:
   - agenda:
-    - No live class (Stolley on the DL for a massive headache)
     - Full [Project Two](projects/#project-two) description
     video:
 readings:
