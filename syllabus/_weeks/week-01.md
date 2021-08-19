@@ -19,7 +19,7 @@ readings:
     Marijn Haverbeke, *Eloquent JavaScript*,
     [Chapter&nbsp;11: Asynchronous Programming](https://eloquentjavascript.net/11_async.html)
     (If your JavaScript is rusty, strongly consider beginning with
-    [Chapters&nbsp;1–6](https://eloquentjavascript.net/).
+    [Chapters&nbsp;1–6](https://eloquentjavascript.net/)).
 tasks:
   - Sign up for a [GitHub account](https://github.com/), if you don’t already have one
   - >

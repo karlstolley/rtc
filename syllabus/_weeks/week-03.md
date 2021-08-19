@@ -13,6 +13,7 @@ meetings:
         JavaScript API
     video:
 readings:
+  - Stolley, *Programming WebRTC*, Preface, Chapter&nbsp;1
   - ExpressJS, [Getting started](https://expressjs.com/en/starter/installing.html)
   - ExpressJS, [Guide](https://expressjs.com/en/guide/routing.html) (all sections)
   - Nitin Patel, [How To Create an HTTPS Server on Localhost using Express](https://medium.com/@nitinpatel_20236/how-to-create-an-https-server-on-localhost-using-express-366435d61f28)
