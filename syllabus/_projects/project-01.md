@@ -1,34 +1,35 @@
 ---
-title: Real-Time Monitoring and Messaging
+title: A Basic WebRTC Application
 due_date: &deadline 2021-10-07
 preview: false
 goals:
-  - Learn to programmatically access web-available resources, and run comparisons on the results
+  - Gain experience working with the fundamental WebRTC objects and APIs
+  - Learn to set up and use a namespaced signaling channel for establishing WebRTC connections
+  - Learn to write WebRTC connection code according to the perfect-negotiation pattern
   - >
-    Learn to command established real-time communication APIs, including Web Workers, Web Sockets,
-    and Web Notifications
-  - Improve your ability to work with a centralized group repository and an individual fork
-  - "ITMD 545 Only: Learn to serialize data in a web-friendly format like XML or JSON"
+    **ITMD 545 only**: learn about and implement a Web API that complements or extends your work
+    with WebRTC
 requirements:
-  - Valid, semantic HTML; valid CSS; error-free JavaScript
-  - Feature detection for all JavaScript calls to Web APIs
+  - Valid, semantic HTML; valid CSS; error-free vanilla JavaScript (no client-side libraries)
+  - Intelligent use of feature detection for WebRTC and any Web APIs you use
+  - Ability for two peers to connect to each other
   - >
-    A centralized group repository that contains your ExpressJS app, which can be cloned and run
-    locally
-  - A personal fork of the group repository in your GitHub account where you do most of your work
-  - Make good use of feature branches on your fork of the group repository
-  - All work submitted to the group repository should be done through pull requests on GitHub
+    A meticulously organized Git repository with frequent atomic commits and meaningful commit
+    messages that accurately reflect each set of changes that you make
+  - >
+    Ability for instructor and others to easily clone, set up, and run your project over HTTPS on a
+    local network
 deliverables:
-  - action: Organize on Basecamp into teams for Project One.
-    description: >
-      If you have an idea for what you’d like to build for Project One, you might share that in your
-      post.
-    deadline: 2021-09-02
-  - action: Formally pitch your Project One idea to Basecamp.
+  - action: Formally pitch your Project One idea to the [Project Showcase Basecamp](https://3.basecamp.com/3058761/projects/23668414).
     description: >
       Once you and your team have organized yourselves, formally pitch your Project One idea on
       Basecamp for instructor feedback and approval.
-    deadline: 2021-09-16
+    deadline: 2021-09-09
+  - action: Schedule a one-on-one conference with the instructor for the week of September 13 (see Basecamp).
+    description: >
+      Sometime during the week of September 13, you will meet individually with the instructor to
+      discuss your Project One idea.
+    deadline: 2021-09-09
   - action: Post your Project One progress to Basecamp.
     description: >
       Include a link to your GitHub repository. Be sure and also respond to the progress of other
@@ -54,17 +55,11 @@ deliverables:
     deadline: *deadline
 ---
 
-For this project, you and a small team will leverage some combination of ExpressJS, Web
-Sockets/socket.io, Web Workers, Service Workers, and the Notifications API to create a web-based
-system that monitors a source for changes in data.
+For this project, you will work individually to build a small app that is powered by WebRTC.
 
-For example, you might periodically scrape the contents of the daily Congressional Record at
-[congress.gov](https://www.congress.gov/congressional-record) and run a diff against your last
-retrieved copy. Your project would then perhaps provide notifications of changes, as well as a page
-highlighting the changes as they've occurred--and that would also update in real-time as changes
-come in.
+**ITMD 469 students** will build an app that allows students to seek help from an instructor or TA
+in real time, something like virtual office hours. The app must include both audio and video, and
+make some worthwhile use of a data channel.
 
-You can do this with any source of data that updates multiple times over the course of a *typical*
-day. Just be sure you do not run afoul of the copyright laws surrounding the data you're using. (US
-Government publications, for example, generally are not protected by copyright because they are in
-the public domain.)
+**ITMD 545 students** will build an app that includes some combination of streaming audio, video,
+and data.

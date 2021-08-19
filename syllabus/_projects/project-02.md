@@ -1,7 +1,7 @@
 ---
 title: Chat Plus Alpha Release
 due_date: &deadline 2021-11-22
-preview: false
+preview: true
 goals:
   - >
     Learn to command established real-time communication APIs, including WebRTC, Web Workers, Web
