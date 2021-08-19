@@ -24,12 +24,12 @@ deliverables:
     description: >
       Once you and your team have organized yourselves, formally pitch your Project One idea on
       Basecamp for instructor feedback and approval.
-    deadline: 2021-09-09
+    deadline: 2021-09-16
   - action: Schedule a one-on-one conference with the instructor for the week of September 13 (see Basecamp).
     description: >
-      Sometime during the week of September 13, you will meet individually with the instructor to
+      Sometime during the week of September 20, you will meet individually with the instructor to
       discuss your Project One idea.
-    deadline: 2021-09-09
+    deadline: 2021-09-16
   - action: Post your Project One progress to Basecamp.
     description: >
       Include a link to your GitHub repository. Be sure and also respond to the progress of other
