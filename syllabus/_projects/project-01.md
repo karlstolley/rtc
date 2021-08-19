@@ -20,12 +20,12 @@ requirements:
     Ability for instructor and others to easily clone, set up, and run your project over HTTPS on a
     local network
 deliverables:
-  - action: Formally pitch your Project One idea to the [Project Showcase Basecamp](https://3.basecamp.com/3058761/projects/23668414).
+  - action: Pitch your Project One idea to the [Project Showcase Basecamp](https://3.basecamp.com/3058761/projects/23668414).
     description: >
-      Once you and your team have organized yourselves, formally pitch your Project One idea on
-      Basecamp for instructor feedback and approval.
+      Post a brief pitch of your Project One idea on Basecamp for peer and instructor feedback and
+      instructor approval.
     deadline: 2021-09-16
-  - action: Schedule a one-on-one conference with the instructor for the week of September 13 (see Basecamp).
+  - action: Schedule a one-on-one conference with the instructor (see Basecamp).
     description: >
       Sometime during the week of September 20, you will meet individually with the instructor to
       discuss your Project One idea.
@@ -33,12 +33,6 @@ deliverables:
   - action: Post your Project One progress to Basecamp.
     description: >
       Include a link to your GitHub repository. Be sure and also respond to the progress of other
-      group projects.
-    deadline: 2021-09-23
-  - action: Post your Project One progress to Basecamp.
-    description: >
-      Include a link to your GitHub repository and a short video where your group talks through your
-      project running in a web browser. Be sure and also respond to the progress of other group
       projects.
     deadline: 2021-09-30
   - action: Submit your final Project One.
