@@ -1,19 +1,19 @@
 ---
-theme: Stronger WebRTC Foundations with Perfect Negotiation
+theme: Network Monitoring and Performance
 meetings:
   - agenda:
-      - "Brief demo: Team repo organization and practices"
-      - Namespaced signaling with Socket.io; custom `signal` events
-      - Better streaming placeholders and code (`track` rather than `stream`)
+      - Monitoring network load and conditions
+      - >
+        [`RTCPeerConnection.getStats()`](https://developer.mozilla.org/en-US/docs/Web/API/RTCPeerConnection/getStats)
+      - >
+        [The `RTCStatsReport` Object](https://developer.mozilla.org/en-US/docs/Web/API/RTCStatsReport)
     video:
   - agenda:
-      - "Perfect negotiation: polite and impolite clients"
-      - The `RTCPeerConnection` interface
+
     video:
 readings:
-  - MDN, [Perfect negotiation](https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API/Perfect_negotiation)
-  - MDN, [Signaling and video calling](https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API/Signaling_and_video_calling)
-  - MDN, [A simple RTCDataChannel sample](https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API/Simple_RTCDataChannel_sample)
+  - MDN, [`RTCPeerConnection.getStats()`](https://developer.mozilla.org/en-US/docs/Web/API/RTCPeerConnection/getStats)
+  - (Browse) W3C, [Identifiers for WebRTC’s Statistics API](https://www.w3.org/TR/webrtc-stats/)
 tasks:
   - Participate in Week Ten reading discussion on Basecamp
 ---

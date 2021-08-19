@@ -1,21 +1,17 @@
 ---
-theme: "Conferences; Remaining Notifications/Project One Topics"
+theme: "Broader Browser-Compatibility and “Perfekted Negotiation”"
 meetings:
   - agenda:
-      - "**No class.** Group conferences. See Basecamp for schedule."
+      - Revisiting perfect negotiation for imperfect browsers
+      - Safari-oriented tweaks to perfect negotiation (which makes it somewhat less perfect)
+      - A note about Safari/Safari Technology Preview and what’s coming
     video:
   - agenda:
-      - Remaining Project One topics and techniques
-      - Merge strategies on GitHub repositories
-      - Serialization/API endpoint
-      - "Code organization: routes, `lib/`"
-      - The `export` syntax
-      - Open Q&amp;A
+      - Revisiting binary data and array buffers
     video:
 readings:
-  - Hibbard, [Understanding `module.exports` and `exports` in Node.js](https://www.sitepoint.com/understanding-module-exports-exports-node-js/)
-  - Node.js, [The `module` object](https://nodejs.org/api/modules.html#modules_the_module_object)
-  - Nguyen, [Better Express Routing & Architecture for NodeJS](https://caffeinecoding.com/better-express-routing-for-nodejs/)
+  - MDN, [ArrayBuffers](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ArrayBuffer)
+  - "Levent-Levi, [WebRTC ports: Understanding IP addresses and port ranges in WebRTC](https://bloggeek.me/webrtc-ports-ip-addresses/)"
 tasks:
   - Participate in Week Six reading discussion on Basecamp
 ---

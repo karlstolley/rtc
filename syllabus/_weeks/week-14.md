@@ -1,12 +1,10 @@
 ---
-theme: Multiple Peer Connections
+theme: Catch Up or Additional Topics, As Needed
 meetings:
   - agenda:
       - Introduce [Project Three](projects/#project-three)
-      - Handling multiple peer connections
+      - "Open Q&nbsp;&amp;&nbsp;A"
     video:
   - agenda: Thanksgiving Break (No Class)
 readings:
-  - MDN, [`RTCPeerConnection.getStats()`](https://developer.mozilla.org/en-US/docs/Web/API/RTCPeerConnection/getStats)
-  - (Browse) W3C, [Identifiers for WebRTC’s Statistics API](https://www.w3.org/TR/webrtc-stats/) CR
 ---

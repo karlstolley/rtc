@@ -1,28 +1,21 @@
 ---
-theme: "WebRTC Fundamentals: RTCPeerConnection; `adapter.js`"
+theme: Enhanced Media Streaming
 meetings:
   - agenda:
-      - A fuller look at WebRTC by critiquing Google Codelabs code
-      - >
-        The [WebRTC 1.0: Real-time Communication Between Browsers](https://www.w3.org/TR/webrtc/) specification
-      - Setting up a local WebRTC stream for diagnostic purposes
+      - Determining available devices
+      - The [MediaDevices](https://developer.mozilla.org/en-US/docs/Web/API/MediaDevices) Web API
+      - "`enumerateDevices()` and [Device IDs](https://developer.mozilla.org/en-US/docs/Web/API/MediaDeviceInfo/deviceId)"
+      - The [Media Capture and Streams](https://www.w3.org/TR/mediacapture-streams/) specification
+      - "Inspecting stream objects: `MediaStreamTrack`"
     video:
   - agenda:
-      - Resetting and refreshing
-      - Sketching out the WebRTC lifecycle
-      - Stolley sets up Express.JS with better foundations for rooms and signaling
-      - URL-based rooms
-      - Auto-generating rooms and handling dynamic socket.io namespaces on the server
+      - Exploring device capabilities and the `getSupportedConstraints()` method
       - >
-        [`adapter.js`](https://github.com/webrtcHacks/adapter)
-        ([raw `adapter-latest.js` file](https://webrtc.github.io/adapter/adapter-latest.js))
+        The [MediaCapabilitiesInfo](https://developer.mozilla.org/en-US/docs/Web/API/MediaCapabilitiesInfo) API
     video:
 readings:
-  - MDN, [WebRTC API](https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API)
-  - MDN, [RTCPeerConnection](https://developer.mozilla.org/en-US/docs/Web/API/RTCPeerConnection)
-  - MDN, [RTCDataChannel](https://developer.mozilla.org/en-US/docs/Web/API/RTCDataChannel)
-  - WebRTC.org, [Getting Started](https://webrtc.org/getting-started/overview) (all sections)
-  - "Levent-Levi, [WebRTC ports: Understanding IP addresses and port ranges in WebRTC](https://bloggeek.me/webrtc-ports-ip-addresses/)"
+  - MDN, [Capabilities, constraints, and settings](https://developer.mozilla.org/en-US/docs/Web/API/Media_Streams_API/Constraints)
+  - MDN, [Media Capture and Streams API (Media Stream)](https://developer.mozilla.org/en-US/docs/Web/API/Media_Streams_API)
 tasks:
-  - Participate in Week Eight/Nine reading discussion on Basecamp
+  - Participate in Week Nine reading discussion on Basecamp
 ---
