@@ -1,8 +1,7 @@
 ---
 theme: "WebRTC Foundations I: HTTPS, Media Permissions"
 meetings:
-  - agenda:
-      - "**No class.** Labor Day"
+  - agenda: "**No class.** Labor Day Holiday"
   - agenda:
       - Serving HTTPS in development with ExpressJS
       - Requesting access to user media

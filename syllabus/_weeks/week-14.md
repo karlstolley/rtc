@@ -5,6 +5,6 @@ meetings:
       - Introduce [Project Three](projects/#project-three)
       - "Open Q&nbsp;&amp;&nbsp;A"
     video:
-  - agenda: Thanksgiving Break (No Class)
+  - agenda: "**No class.** Thanksgiving Break"
 readings:
 ---
