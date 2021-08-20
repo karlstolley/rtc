@@ -9,7 +9,7 @@ course:
   title: Web Real-Time Communications
   uid: rtc
   tagline: >
-    A course in browser-to-browser real-time communication and data exchange.
+    A course in real-time, browser-to-browser media streaming and data exchange.
   term: Fall 2021
   # Set `days: ""` (empty string) for weekly/asynchronous classes
   days:
