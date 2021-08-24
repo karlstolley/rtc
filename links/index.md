@@ -10,11 +10,9 @@ layout: links
 * [Basecamp](https://launchpad.37signals.com/signin)
 * [Google Meet](https://3.basecamp.com/3058761/buckets/23600578/messages/4053415605)
 * [GitHub Demos](https://github.com/rtc-2021)
-
-<!--
-* [Class Videos](https://www.youtube.com/playlist?list=PLMr8hpt6mGnsH82A9FuCPSWkt01jp0zST)
+* [Class Videos](https://www.youtube.com/playlist?list=PLMr8hpt6mGnvjqTrXChej0kxR6cDbq7Zj)
   (YouTube Playlist)
--->
+  
 </section>
 
 <section class="tool-links" markdown="1">
