@@ -5,7 +5,7 @@ meetings:
       - Course overview
       - Course policies
       - Course projects
-    video:
+    video: https://youtu.be/CEft3MkmiGc
   - agenda:
       - Asking questions publicly on Basecamp
       - Walking through web-development environments
