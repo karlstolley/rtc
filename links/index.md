@@ -12,7 +12,7 @@ layout: links
 * [GitHub Demos](https://github.com/rtc-2021)
 * [Class Videos](https://www.youtube.com/playlist?list=PLMr8hpt6mGnvjqTrXChej0kxR6cDbq7Zj)
   (YouTube Playlist)
-  
+
 </section>
 
 <section class="tool-links" markdown="1">
@@ -23,7 +23,7 @@ layout: links
 * [HTML Validator](https://validator.w3.org/)
 * [CSS Validator](https://jigsaw.w3.org/css-validator/)
 * [JS Hint](http://jshint.com/)
-* [ESLint](http://eslint.org/) CLI; [House-style .eslintrc](https://gist.github.com/profstolley/559aac5112928c7c24c628c6305b70b8#file-eslintrc-json)
+* [ESLint](http://eslint.org/) CLI; [Stolley’s .eslintrc configs](https://github.com/karlstolley/eslint-config)
 * [htmllint](https://github.com/htmllint/htmllint-cli); [House-style .htmllintrc](https://gist.github.com/profstolley/559aac5112928c7c24c628c6305b70b8#file-htmllintrc)
 * [CSS stylelint](https://github.com/stylelint/stylelint/blob/master/docs/user-guide/get-started.md); [House-style .stylelintrc](https://gist.github.com/profstolley/559aac5112928c7c24c628c6305b70b8#file-stylelintrc)
 </section>

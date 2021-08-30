@@ -4,6 +4,9 @@ meetings:
   - agenda:
       - "Previewing WebRTC"
       - JavaScript syntax, styles, values, and gotchas
+      - >
+        Linting: [ESLint](http://eslint.org/) CLI;
+        [Stolley’s .eslintrc configs](https://github.com/karlstolley/eslint-config)
       - Why asynchronous JavaScript?
       - "Older async methods: callbacks"
       - The `Event` interface in client-side JavaScript
