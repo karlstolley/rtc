@@ -2,17 +2,18 @@
 theme: "Non-blocking Realtime Foundations: Asynchronous JavaScript, `Event` and `EventEmitter`"
 meetings:
   - agenda:
-      - Introduce [Project One](projects/#project-one)
+      - "Previewing WebRTC"
+      - JavaScript syntax, styles, values, and gotchas
       - Why asynchronous JavaScript?
-      - "Older methods: callbacks"
+      - "Older async methods: callbacks"
       - The `Event` interface in client-side JavaScript
     video:
   - agenda:
+      - Introduce [Project One](projects/#project-one)
       - The Promise API
       - Asynchronous JavaScript in disguise `async` and `await`
       - The `CustomEvent` interface in client-side JavaScript
       - "`EventEmitter`"
-      - "Previewing WebRTC"
     video:
 readings:
   - MDN, [Asynchronous JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous)
