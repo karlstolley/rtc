@@ -7,15 +7,14 @@ meetings:
       - >
         Linting: [ESLint](http://eslint.org/) CLI;
         [Stolley’s .eslintrc configs](https://github.com/karlstolley/eslint-config)
-      - Why asynchronous JavaScript?
-      - "Older async methods: callbacks"
-      - The `Event` interface in client-side JavaScript
     video: https://youtu.be/E_ugt2heJKE
   - agenda:
       - Introduce [Project One](projects/#project-one)
+      - Why asynchronous JavaScript?
+      - "Older async methods: callbacks"
       - The Promise API
       - Asynchronous JavaScript in disguise `async` and `await`
-      - The `CustomEvent` interface in client-side JavaScript
+      - The `Event` and `CustomEvent` interfaces in client-side JavaScript
       - "`EventEmitter`"
     video:
 readings:
