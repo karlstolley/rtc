@@ -10,7 +10,7 @@ meetings:
       - Why asynchronous JavaScript?
       - "Older async methods: callbacks"
       - The `Event` interface in client-side JavaScript
-    video:
+    video: https://youtu.be/E_ugt2heJKE
   - agenda:
       - Introduce [Project One](projects/#project-one)
       - The Promise API
