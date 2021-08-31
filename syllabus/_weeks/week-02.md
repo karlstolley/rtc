@@ -7,7 +7,7 @@ meetings:
       - >
         Linting: [ESLint](http://eslint.org/) CLI;
         [Stolley’s .eslintrc configs](https://github.com/karlstolley/eslint-config)
-    video: https://youtu.be/E_ugt2heJKE
+    video: https://youtu.be/fIUbGvY6sjE
   - agenda:
       - Introduce [Project One](projects/#project-one)
       - Why asynchronous JavaScript?
