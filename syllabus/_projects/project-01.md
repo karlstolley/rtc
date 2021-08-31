@@ -10,9 +10,18 @@ goals:
     **ITMD 545 only**: learn about and implement a Web API that complements or extends your work
     with WebRTC
 requirements:
-  - Valid, semantic HTML; valid CSS; error-free vanilla JavaScript (no client-side libraries)
+  - >
+    Valid, semantic HTML; valid, custom CSS; error-free vanilla JavaScript (no client-side
+    libraries)
   - Intelligent use of feature detection for WebRTC and any Web APIs you use
-  - Ability for two peers to connect to each other
+  - >
+    A signaling server written in Socket.IO or pure WebSockets, powered by ExpressJS or another
+    Node.js-based framework (discuss with instructor)
+  - An intelligently written `package.json` file including all server-side dependencies
+  - Ability for two peers to connect to each other over a local network
+  - >
+    Use of the perfect-negotiation pattern, with necessary fallbacks for browsers with older or
+    incomplete implementations of `RTCPeerConnection`
   - >
     A meticulously organized Git repository with frequent atomic commits and meaningful commit
     messages that accurately reflect each set of changes that you make
@@ -40,12 +49,13 @@ deliverables:
       Submissions should be both public on Basecamp and private to the instructor’s email. Your
       email should include:
     details:
-      - Links to your group and individual repositories
+      - The link to your project’s repository
       - >
         A self-critique memo, written in the body of the email, about your work on the project and
         your progress in class to this point.
       - >
-        A short critique of each of your group members, also written in the body of the email.
+        **ITMD 545 only**: a short write-up of the Web API you included, and what you learned about
+        *it.
     deadline: *deadline
 ---
 
