@@ -55,7 +55,7 @@ deliverables:
         your progress in class to this point.
       - >
         **ITMD 545 only**: a short write-up of the Web API you included, and what you learned about
-        *it.
+        it.
     deadline: *deadline
 ---
 
