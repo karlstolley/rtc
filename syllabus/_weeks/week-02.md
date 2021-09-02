@@ -17,7 +17,7 @@ meetings:
       - Asynchronous JavaScript in disguise `async` and `await`
       - The `Event` and `CustomEvent` interfaces in client-side JavaScript
       - "`EventEmitter`"
-    video:
+    video: https://youtu.be/__Gbyapq1GA
 readings:
   - MDN, [Asynchronous JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous)
   - MDN, [Using Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises)
