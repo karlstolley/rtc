@@ -10,7 +10,7 @@ meetings:
       - >
         The [HTMLMediaElement](https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement)
         JavaScript API
-    video:
+    video: https://youtu.be/nrmUEmeeDj8
 readings:
   - Stolley, *Programming WebRTC*, Preface, Chapter&nbsp;1
   - ExpressJS, [Getting started](https://expressjs.com/en/starter/installing.html)
