@@ -8,6 +8,7 @@ meetings:
       - Signaling with Socket.io
       - Sending and receiving messages
       - Namespacing a signaling channel
+    video: https://youtu.be/Ggexjwr-C7Q
   - agenda:
       - "Perfect negotiation: polite and impolite clients"
       - The `RTCPeerConnection` interface
