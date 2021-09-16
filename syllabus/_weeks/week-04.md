@@ -12,7 +12,7 @@ meetings:
   - agenda:
       - "Perfect negotiation: polite and impolite clients"
       - The `RTCPeerConnection` interface
-    video:
+    video: https://youtu.be/FR2AXg9wgrw
 readings:
   - Stolley, *Programming WebRTC*, Chapters&nbsp;2-3
   - Socket.io, [Get started](https://socket.io/get-started/chat/)
