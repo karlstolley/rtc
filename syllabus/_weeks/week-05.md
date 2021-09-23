@@ -10,7 +10,7 @@ meetings:
     - >
       Making use of [`adapter.js`](https://github.com/webrtcHacks/adapter)
       ([raw `adapter-latest.js` file](https://webrtc.github.io/adapter/adapter-latest.js))
-    video:
+    video: https://youtu.be/cxzvpb3mGcs
 tasks:
   - Catch up on Week One thru Four reading-discussions on Basecamp
 ---
