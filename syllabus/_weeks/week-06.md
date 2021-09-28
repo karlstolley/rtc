@@ -4,7 +4,7 @@ meetings:
   - agenda:
       - Adding data channels to WebRTC calls
       - Symmetrically vs. asymmetrically added data channels
-    video:
+    video: https://youtu.be/DBdDoAO_8RQ
   - agenda:
       - Data-channel events
     video:
