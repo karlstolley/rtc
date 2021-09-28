@@ -2,10 +2,12 @@
 theme: "Data Channels"
 meetings:
   - agenda:
-      - Adding data channels to WebRTC calls
-      - Symmetrically vs. asymmetrically added data channels
+      - Reviewing the signaling and WebRTC code written so far
+      - Console experiments with data channels to WebRTC calls
     video: https://youtu.be/DBdDoAO_8RQ
   - agenda:
+      - Adding data channels to WebRTC calls
+      - Symmetrically vs. asymmetrically added data channels
       - Data-channel events
     video:
 readings:
