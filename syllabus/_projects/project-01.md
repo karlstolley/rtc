@@ -1,6 +1,6 @@
 ---
 title: A Basic WebRTC Application
-due_date: &deadline 2021-10-07
+due_date: &deadline 2021-10-14
 preview: false
 goals:
   - Gain experience working with the fundamental WebRTC objects and APIs
@@ -44,6 +44,11 @@ deliverables:
       Include a link to your GitHub repository. Be sure and also respond to the progress of other
       projects.
     deadline: 2021-09-30
+  - action: Post your Project One progress to Basecamp.
+    description: >
+      Include a link to your GitHub repository. Be sure and also respond to the progress of other
+      projects.
+    deadline: 2021-10-07
   - action: Submit your final Project One.
     description: >
       Submissions should be both public on Basecamp and private to the instructor’s email. Your
