@@ -1,22 +1,19 @@
 ---
-theme: "Broader Browser-Compatibility and “Perfekted Negotiation”; Binary Data"
+theme: "Web APIs; Broader Browser-Compatibility and “Perfekted Negotiation”"
 meetings:
+  - agenda:
+      - Finishing the chat feature and symmetrical data channel
+      - "Web APIs: where to look, brief examples"
+    video:
   - agenda:
       - Revisiting perfect negotiation for imperfect browsers
       - Safari-oriented tweaks to perfect negotiation (which makes it somewhat less perfect)
       - Notes about Safari/Safari Technology Preview and what’s coming
     video:
-  - agenda:
-      - Handling binary data
-      - Blobs
-      - ArrayBuffers
-      - Abstacting away differences between Blobs and ArrayBuffers
-    video:
 readings:
   - Stolley, *Programming WebRTC*, Chapter&nbsp;5
-  - MDN, [Blobs](https://developer.mozilla.org/en-US/docs/Web/API/Blob)
-  - MDN, [ArrayBuffers](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ArrayBuffer)
   - "Levent-Levi, [WebRTC ports: Understanding IP addresses and port ranges in WebRTC](https://bloggeek.me/webrtc-ports-ip-addresses/)"
+  - MDN, [Web APIs](https://developer.mozilla.org/en-US/docs/Web/API) (browse Specifications list)
 tasks:
   - Participate in Week Seven reading discussion on Basecamp
   - >
