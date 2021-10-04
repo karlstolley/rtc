@@ -2,6 +2,7 @@
 theme: "Web APIs; Broader Browser-Compatibility and “Perfekted Negotiation”"
 meetings:
   - agenda:
+      - "**Remote class.** [See Basecamp for details](https://3.basecamp.com/3058761/buckets/23600578/messages/4214505593)"
       - Finishing the chat feature and symmetrical data channel
       - "Web APIs: where to look, brief examples"
     video:
