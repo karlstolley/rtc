@@ -6,7 +6,7 @@ meetings:
       - "Expectations of you as a student in this class"
       - Finishing the chat feature and symmetrical data channel
       - "Web APIs: where to look, brief examples"
-    video:
+    video: https://youtu.be/nxJ6AXUXVsQ
   - agenda:
       - Revisiting perfect negotiation for imperfect browsers
       - Safari-oriented tweaks to perfect negotiation (which makes it somewhat less perfect)
