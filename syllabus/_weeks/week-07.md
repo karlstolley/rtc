@@ -8,6 +8,8 @@ meetings:
       - "Web APIs: where to look, brief examples"
     video: https://youtu.be/nxJ6AXUXVsQ
   - agenda:
+      - "**Remote class.** [See Basecamp for details](https://3.basecamp.com/3058761/buckets/23600578/messages/4224400460)"
+      - Styling the chat log
       - Revisiting perfect negotiation for imperfect browsers
       - Safari-oriented tweaks to perfect negotiation (which makes it somewhat less perfect)
       - Notes about Safari/Safari Technology Preview and what’s coming
