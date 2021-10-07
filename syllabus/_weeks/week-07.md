@@ -13,7 +13,7 @@ meetings:
       - Revisiting perfect negotiation for imperfect browsers
       - Safari-oriented tweaks to perfect negotiation (which makes it somewhat less perfect)
       - Notes about Safari/Safari Technology Preview and what’s coming
-    video:
+    video: https://youtu.be/CpHRA-D4PhI
 readings:
   - Stolley, *Programming WebRTC*, Chapter&nbsp;5
   - "Levent-Levi, [WebRTC ports: Understanding IP addresses and port ranges in WebRTC](https://bloggeek.me/webrtc-ports-ip-addresses/)"
