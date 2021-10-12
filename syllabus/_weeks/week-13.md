@@ -1,28 +1,23 @@
 ---
-theme: Web APIs for Enhancing WebRTC Applications
+theme: STUN/TURN Servers; WebRTC in Production
 meetings:
   - agenda:
-      - Workers overview
-      - "[Functions and classes available to workers](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Functions_and_classes_available_to_workers)"
-      - Web Workers
+      - "ITMD 545: Project Four and grad-student readings"
+      - Using public STUN servers
+      - "[GitHub Gist](https://gist.github.com/zziuni/3741933) of third-party STUN servers"
+      - Working around home routers and firewalls
     video:
   - agenda:
-      - Service Workers
-      - The service-worker lifecycle
-      - OS and browser settings for notification testing
-      - The Web Notifications API
-      - The Push API
+      - Configuring a private STUN/TURN server
+      - Automating WebRTC deploys to production
     video:
 readings:
+  - Stolley, *Programming WebRTC*, Chapter&nbsp;9
   - >
-    Google Codelabs, [Web Fundamentals](https://developers.google.com/web/fundamentals/codelabs)
-    (Your First Progressive Web App, Your First Offline Web App, and Adding Web
-    Push Notifications sections)
-  - MDN, [Web Workers API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API)
-  - MDN, [Service Worker API](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API)
-  - MDN, [Notifications API](https://developer.mozilla.org/en-US/docs/Web/API/Notifications_API)
-  - "Google, [Service Workers: An Introduction](https://developers.google.com/web/fundamentals/primers/service-workers)"
-  - iZettle Engineering, [Beginners guide to Web Push Notifications using Service Workers](https://medium.com/izettle-engineering/beginners-guide-to-web-push-notifications-using-service-workers-cb3474a17679)
+    [545 Students Only] Azevedo, Pereira, and Chainho. An API proposal for integrating sensor data
+    into web apps and WebRTC. In *Proceedings of the 1st Workshop on All-Web Real-Time Systems*,
+    article no. 8, pages 1–5. ACM, 2015.
 tasks:
-  - "[545 Students Only] Participate in Week Twelve/Thirteen academic reading discussion on Basecamp"
+  - Participate in Week Twelve reading discussion on Basecamp
+  - "[545 Students Only] Participate in Week Thirteen academic reading discussion on Basecamp"
 ---

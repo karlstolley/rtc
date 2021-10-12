@@ -1,14 +1,11 @@
 ---
-theme: Binary Data
+theme: "Review and Q&A"
 meetings:
   - agenda: Fall Break (No Class)
   - agenda:
-      - Handling binary data
-      - Blobs
-      - ArrayBuffers
-      - Abstacting away differences between Blobs and ArrayBuffers
+      - "Review: the media-constraints object"
+      - "Handling multiple media tracks"
+      - "User-controlled enabling and disabling of media tracks"
+      - Student questions
     video:
-readings:
-  - MDN, [Blobs](https://developer.mozilla.org/en-US/docs/Web/API/Blob)
-  - MDN, [ArrayBuffers](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ArrayBuffer)
 ---

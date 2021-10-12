@@ -1,16 +1,22 @@
 ---
-theme: Multipeer Connections and Mesh-Network Topography
+theme: "Git and GitHub in Team Settings; Binary Data"
 meetings:
   - agenda:
       - Introduce [Project Two](projects/#project-two)
-      - The challenge and limits of multipeer connections
-      - Refactoring peer-to-peer code for multipeer
+      - Git and GitHub in team settings
+      - Repository organization
+      - Pull-request workflows
     video:
   - agenda:
-      - Testing multiple devices over the local network
+      - Handling binary data
+      - Blobs
+      - ArrayBuffers
+      - Abstacting away differences between Blobs and ArrayBuffers
     video:
 readings:
-  - Stolley, *Programming WebRTC*, Chapter&nbsp;6
+  - Stolley, *Programming WebRTC*, Chapter&nbsp;5 (if not finished)
+  - MDN, [Blobs](https://developer.mozilla.org/en-US/docs/Web/API/Blob)
+  - MDN, [ArrayBuffers](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ArrayBuffer)
 tasks:
   - Participate in Week Nine reading discussion on Basecamp
 ---
