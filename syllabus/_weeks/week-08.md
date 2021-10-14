@@ -7,5 +7,5 @@ meetings:
       - "Handling multiple media tracks"
       - "User-controlled enabling and disabling of media tracks"
       - Student questions
-    video:
+    video: https://youtu.be/QLfBWpRDKdk
 ---
