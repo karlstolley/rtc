@@ -8,6 +8,7 @@ meetings:
       - Pull-request workflows
     video:
   - agenda:
+      - "**Remote class.**"
       - Handling binary data
       - Blobs
       - ArrayBuffers
