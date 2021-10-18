@@ -35,10 +35,10 @@ requirements:
   - >
     You must also maintain a personal fork of the group repository in your GitHub account where you
     do most of your work
-  - You should make good use of feature branches on your fork of the group repository
+  - You should make obsessive use of feature branches on your fork of the group repository
   - You should **never** commit directly on the `main` branch
   - >
-    All work submitted to the group repository should be done through pull requests on GitHub, which
+    All work submitted to the group repository **must** be done through pull requests on GitHub, which
     is how commits get onto the `main` branch
 deliverables:
   - action: Organize into groups of three or four students for Project Two.
