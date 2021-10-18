@@ -50,12 +50,12 @@ deliverables:
       Once you and your team have organized yourselves, formally pitch your Project Two idea on
       Basecamp for instructor feedback and approval.
     deadline: 2021-10-28
-  - action: Weekly Project Two check-in
+  - action: Weekly Project Two check-in.
     description: >
       Include a link to your GitHub repository. Be sure and also respond to the progress of other
       group projects.
     deadline: 2021-11-04
-  - action: Post Project Two draft and walkthrough video
+  - action: Post Project Two draft and walkthrough video.
     description: >
       Include a link to your GitHub repository and a short video where your group talks through your
       project running in a two web browsers. Be sure and also respond to the progress of other group
