@@ -44,7 +44,7 @@ deliverables:
   - action: Organize into groups of three or four students for Project Two.
     description: >
       Use Basecamp to find team members for yourself.
-    deadline: 2021-10-20
+    deadline: 2021-10-21
   - action: Formally pitch your Project Two idea on Basecamp.
     description: >
       Once you and your team have organized yourselves, formally pitch your Project Two idea on
