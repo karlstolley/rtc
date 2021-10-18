@@ -1,5 +1,5 @@
 ---
-title: Chat Plus Beta Release
+title: Real-Time Collaboration Beta Release
 due_date: &deadline 2021-12-09
 preview: true
 goals:
