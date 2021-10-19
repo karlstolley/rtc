@@ -6,7 +6,7 @@ meetings:
       - Git and GitHub in team settings
       - Repository organization
       - Pull-request workflows
-    video:
+    video: https://youtu.be/wrejB6M_j-c
   - agenda:
       - "**Remote class.**"
       - Handling binary data
