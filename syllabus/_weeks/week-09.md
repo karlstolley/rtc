@@ -1,5 +1,5 @@
 ---
-theme: "Git and GitHub in Team Settings; Binary Data"
+theme: "Git and GitHub in Team Settings; Emergency JavaScript Resuscitation"
 meetings:
   - agenda:
       - Introduce [Project Two](projects/#project-two)
@@ -9,10 +9,7 @@ meetings:
     video: https://youtu.be/PULglAJClzk
   - agenda:
       - "**Remote class.**"
-      - Handling binary data
-      - Blobs
-      - ArrayBuffers
-      - Abstacting away differences between Blobs and ArrayBuffers
+      - Emergency JavaScript resuscitation
     video:
 readings:
   - Stolley, *Programming WebRTC*, Chapter&nbsp;5 (if not finished)
