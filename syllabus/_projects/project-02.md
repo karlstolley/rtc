@@ -58,7 +58,7 @@ deliverables:
   - action: Post Project Two draft and walkthrough video.
     description: >
       Include a link to your GitHub repository and a short video where your group talks through your
-      project running in a two web browsers. Be sure and also respond to the progress of other group
+      project running in two web browsers. Be sure and also respond to the progress of other group
       projects.
     deadline: 2021-11-11
   - action: Submit your final Project Two.
