@@ -10,7 +10,7 @@ meetings:
   - agenda:
       - "**Remote class.**"
       - Emergency JavaScript resuscitation
-    video:
+    video: https://youtu.be/MNecjRZ2_nw
 readings:
   - Stolley, *Programming WebRTC*, Chapter&nbsp;5 (if not finished)
   - MDN, [Blobs](https://developer.mozilla.org/en-US/docs/Web/API/Blob)
