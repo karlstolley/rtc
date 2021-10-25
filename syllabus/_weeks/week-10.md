@@ -1,5 +1,5 @@
 ---
-theme: Binary Data; Multipeer Connections and Mesh-Network Topography
+theme: Binary Data
 meetings:
   - agenda:
       - "**No class.**"
@@ -9,15 +9,8 @@ meetings:
       - ArrayBuffers
       - Abstracting away differences between Blobs and ArrayBuffers
     video:
-  - agenda:
-      - The challenge and limits of multipeer connections
-      - Mesh-network topography
-      - Refactoring peer-to-peer code for multipeer
-      - Multipeer WebRTC callbacks with closures
-      - Testing multiple devices over the local network
-    video:
 readings:
-  - Stolley, *Programming WebRTC*, Chapter&nbsp;6
+  - Catch up on any readings you might've missed
 tasks:
-  - Participate in Week Ten reading discussion on Basecamp
+  - Catch up on Basecamp
 ---
