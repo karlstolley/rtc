@@ -14,7 +14,7 @@ requirements:
     shorter).
 deliverables:
   - action: Find and get instructor approval on an academic article.
-    deadline: 2021-10-28
+    deadline: 2021-11-04
   - action: Post article summary to Basecamp, in its own thread.
     description: "Be sure to include:"
     details:
