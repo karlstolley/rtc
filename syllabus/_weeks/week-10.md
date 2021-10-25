@@ -2,7 +2,8 @@
 theme: Binary Data; Multipeer Connections and Mesh-Network Topography
 meetings:
   - agenda:
-      - "**Remote class.**"
+      - "**No class.**"
+  - agenda:
       - Handling binary data
       - Blobs
       - ArrayBuffers
