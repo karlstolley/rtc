@@ -2,11 +2,13 @@
 theme: Multipeer Connections and Mesh-Network Topography
 meetings:
   - agenda:
+    - Sending and receiving binary data on data channels
+    - Abstracting away differences between Blobs and ArrayBuffers
+    video:
+  - agenda:
     - The challenge and limits of multipeer connections
     - Mesh-network topography
     - Refactoring peer-to-peer code for multipeer
-    video:
-  - agenda:
     - Multipeer WebRTC callbacks with closures
     - Testing multiple devices over the local network
     video:
