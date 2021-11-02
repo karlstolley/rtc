@@ -4,7 +4,7 @@ meetings:
   - agenda:
     - Sending and receiving binary data on data channels
     - Abstracting away differences between Blobs and ArrayBuffers
-    video:
+    video: https://youtu.be/GZhzw3D_-pg
   - agenda:
     - The challenge and limits of multipeer connections
     - Mesh-network topography
