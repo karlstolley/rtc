@@ -6,6 +6,7 @@ meetings:
     - Abstracting away differences between Blobs and ArrayBuffers
     video: https://youtu.be/GZhzw3D_-pg
   - agenda:
+    - Making received files available
     - The challenge and limits of multipeer connections
     - Mesh-network topography
     - Refactoring peer-to-peer code for multipeer
