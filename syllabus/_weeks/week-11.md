@@ -9,9 +9,7 @@ meetings:
     - Making received files available
     - The challenge and limits of multipeer connections
     - Mesh-network topography
-    - Refactoring peer-to-peer code for multipeer
-    - Multipeer WebRTC callbacks with closures
-    - Testing multiple devices over the local network
+    - Multipeer signaling channels and callbacks
     video: https://youtu.be/tROeOvqFLvo
 readings:
   - Stolley, *Programming WebRTC*, Chapter&nbsp;6

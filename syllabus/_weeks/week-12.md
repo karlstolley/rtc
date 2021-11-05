@@ -1,21 +1,13 @@
 ---
-theme: WebRTC-backed Interfaces
+theme: Multipeer Calls; Team Conferences
 meetings:
   - agenda:
-      - WebRTC Interfaces
-      - "Before the call: The setup interface"
-      - "During the call: The active interface"
-      - "After the call: The later-tater interface"
+      - Refactoring peer-to-peer code for multipeer
+      - Multipeer WebRTC callbacks with closures
+      - Testing multiple devices over the local network
     video:
   - agenda:
-      - TBD
-    video:
-readings:
-  - Stolley, *Programming WebRTC*, Chapter&nbsp;7
-  - ReallyGoodUX, [A UX review of Zoom's video call experience](https://www.reallygoodux.io/blog/zoom-video-call-ux-review)
-tasks:
-  - Participate in Week Twelve reading discussion on Basecamp
-  - "[545 Students Only] Participate in Week Twelve academic reading discussion on Basecamp"
+      - "**No class.** Team conferences"
 ---
 
 <!--
