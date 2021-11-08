@@ -55,19 +55,17 @@ deliverables:
       Include a link to your GitHub repository. Be sure and also respond to the progress of other
       group projects.
     deadline: 2021-11-04
-  - action: Post Project Two draft and walkthrough video.
+  - action: Meet with the instructor for team conferences on Wednesday, November 7.
     description: >
-      Include a link to your GitHub repository and a short video where your group talks through your
-      project running in two web browsers. Be sure and also respond to the progress of other group
-      projects.
+      See sign-up on Basecamp.
     deadline: 2021-11-11
   - action: Submit your final Project Two.
     description: >
-      Submissions should be both public on Basecamp and private to the instructor’s email. Your
-      email should include:
+      Final submission will be both public, on Basecamp, and private via email. On Basecamp, post
+      your work and include a link to your GitHub repository and a short video where your group
+      talks through your project running in two web browsers. Your email should include:
     details:
       - Links to your group and individual repositories
-      - A link to a video showing your app at work on two different browsers
       - >
         A self-critique memo, written in the body of the email, about your work on the project and
         your progress in class to this point
