@@ -55,7 +55,7 @@ deliverables:
       Include a link to your GitHub repository. Be sure and also respond to the progress of other
       group projects.
     deadline: 2021-11-04
-  - action: Meet with the instructor for team conferences on Wednesday, November 7.
+  - action: Meet with the instructor for team conferences on Wednesday, November 10.
     description: >
       See sign-up on Basecamp.
     deadline: 2021-11-11
