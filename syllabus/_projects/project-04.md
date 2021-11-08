@@ -13,9 +13,9 @@ requirements:
   - Your summary should be as close to 250 words long as possible (neither substantially longer nor
     shorter).
 deliverables:
-  - action: Find and get instructor approval on an academic article.
-    deadline: 2021-11-11
-  - action: Post article summary to Basecamp, in its own thread.
+  - action: Find and get instructor approval on an academic article on WebRTC.
+    deadline: 2021-11-18
+  - action: Post article summary to the Project Showcase Basecamp, in its own thread.
     description: "Be sure to include:"
     details:
       - The full citation to the article
