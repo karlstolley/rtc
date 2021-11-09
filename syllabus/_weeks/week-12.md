@@ -5,7 +5,7 @@ meetings:
       - Refactoring peer-to-peer code for multipeer
       - Multipeer WebRTC callbacks with closures
       - Testing multiple devices over the local network
-    video:
+    video: https://youtu.be/c-OWoyq4YiQ
   - agenda:
       - "**No class.** Team conferences"
 ---
