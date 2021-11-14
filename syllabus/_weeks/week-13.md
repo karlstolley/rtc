@@ -6,6 +6,7 @@ meetings:
       - Using public STUN servers
       - "[GitHub Gist](https://gist.github.com/zziuni/3741933) of third-party STUN servers"
       - Working around home routers and firewalls
+      - Constraining media
     video:
   - agenda:
       - WebRTC interfaces
@@ -14,7 +15,9 @@ meetings:
       - "After the call: The later-tater interface"
     video:
 readings:
-  - Stolley, *Programming WebRTC*, Chapter&nbsp;7
+  - MDN, [Capabilities, constraints, and settings](https://developer.mozilla.org/en-US/docs/Web/API/Media_Streams_API/Constraints)
+  - MDN, [MediaStream Constraints](https://developer.mozilla.org/en-US/docs/Web/API/MediaStreamConstraints)
+  - MDN, [MediaTrack Constraints](https://developer.mozilla.org/en-US/docs/Web/API/MediaTrackConstraints)
   - ReallyGoodUX, [A UX review of Zoom's video call experience](https://www.reallygoodux.io/blog/zoom-video-call-ux-review)
   - >
     [545 Students Only] Azevedo, Pereira, and Chainho. An API proposal for integrating sensor data
