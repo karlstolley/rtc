@@ -7,7 +7,7 @@ meetings:
       - "[GitHub Gist](https://gist.github.com/zziuni/3741933) of third-party STUN servers"
       - Working around home routers and firewalls
       - Constraining media
-    video:
+    video: https://youtu.be/P0TsxtjTh_s
   - agenda:
       - WebRTC interfaces
       - "Before the call: The setup interface"
