@@ -5,10 +5,10 @@ meetings:
       - "ITMD 545: Project Four and grad-student readings"
       - Using public STUN servers
       - "[GitHub Gist](https://gist.github.com/zziuni/3741933) of third-party STUN servers"
-      - Working around home routers and firewalls
-      - Constraining media
     video: https://youtu.be/P0TsxtjTh_s
   - agenda:
+      - Testing public STUN servers with deployed RTC app
+      - Constraining media
       - WebRTC interfaces
       - "Before the call: The setup interface"
       - "During the call: The active interface"
