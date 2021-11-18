@@ -13,7 +13,7 @@ meetings:
       - "Before the call: The setup interface"
       - "During the call: The active interface"
       - "After the call: The later-tater interface"
-    video:
+    video: https://youtu.be/DfC8RAPFZ9A
 readings:
   - MDN, [Capabilities, constraints, and settings](https://developer.mozilla.org/en-US/docs/Web/API/Media_Streams_API/Constraints)
   - MDN, [MediaStream Constraints](https://developer.mozilla.org/en-US/docs/Web/API/MediaStreamConstraints)
