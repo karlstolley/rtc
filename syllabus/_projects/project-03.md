@@ -1,7 +1,7 @@
 ---
 title: Real-Time Collaboration Beta Release
 due_date: &deadline 2021-12-09
-preview: true
+preview: false
 goals:
   - >
     Revise a previous project based on instructor feedback and any additional knowledge that you
@@ -9,8 +9,8 @@ goals:
 requirements:
   - All the requirements for [Project Two](#project-two)
   - >
-    A non-trivial revision to your Project Two, isolated on a feature branch in your upstream
-    repository; you may elect to merge that reivsion in with your `main` branch, but preserve the
+    A targeted revision to your Project Two, isolated on a feature branch in your upstream
+    repository; you may elect to merge that revision in with your `main` branch, but preserve the
     feature branch for your final project submission
   - >
     A document outlining a significant future improvement to your project. Write this as a markdown
@@ -19,10 +19,10 @@ requirements:
 deliverables:
   - action: Pitch your Project Three revisions on Basecamp.
     description: >
-      Your Basecamp post should include plans both for your non-trivial revision that your group
+      Your Basecamp post should include plans both for your targeted revision that your group
       will undertake, as well as a rough idea of the significant future improvement your group
       will write about.
-    deadline: 2021-11-18
+    deadline: 2021-12-02
   - action: (**Firm deadline.**) Email instructor with final project deliverables.
     description: "The email should contain:"
     details:
@@ -36,8 +36,7 @@ deliverables:
     deadline: *deadline
 ---
 
-This project will be a refinement of Project Two, making fuller use of STUN/TURN signaling for more
-robust network interoperability and obviating the need for monkeying with firewalls, etc. Your group
-will make some kind of non-trivial revision, refactoring, or other improvement to your Chat Plus
-Alpha Release (Project Two). Additionally, your group will write a ~500-word proposal outlining a
-significant future improvement to your project.
+This project will be a refinement of Project Two. Your group will make some kind of targeted
+revision, refactoring, or other improvement to your Real-Time Collaboration Alpha Release (Project
+Two). Additionally, your group will write a ~500-word proposal outlining a significant future
+improvement to your project.
