@@ -1,6 +1,6 @@
 ---
 title: Academic Research in WebRTC
-due_date: &deadline 2020-12-10
+due_date: &deadline 2021-12-09
 preview: false
 level: grad
 goals:
