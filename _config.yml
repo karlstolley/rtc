@@ -6,6 +6,10 @@ timezone: America/Chicago
 
 course:
   number: ITMD 469/545
+  id:
+    code: ITMD
+    gr: 545
+    ug: 469
   title: Web Real-Time Communications
   uid: rtc
   tagline: >
